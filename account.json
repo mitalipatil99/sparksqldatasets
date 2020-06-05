@@ -1,0 +1,10 @@
+[{"custID":1001,"acNo":654536252357,"accType":"Savings","balance":120000,"openDate":"22-06-2005"}, 
+{"custID":1009,"acNo":094536252357,"accType":"Savings","balance":240000,"openDate":"18-06-2002"},
+{"custID":1016,"acNo":214536252357,"accType":"Current","balance":320000,"openDate":"20-08-2003"},
+{"custID":1003,"acNo":755453625237,"accType":"Savings","balance":180000,"openDate":"28-06-2005"},
+{"custID":1002,"acNo":908439201234,"accType":"Current","balance":200000,"openDate":"20-01-2015"},
+{"custID":1019,"acNo":002546252350,"accType":"Savings","balance":240000,"openDate":"22-06-2005"},
+{"custID":1012,"acNo":094536252357,"accType":"Savings","balance":240000,"openDate":"18-06-2002"},
+{"custID":1013,"acNo":200066252300,"accType":"Current","balance":320000,"openDate":"20-08-2003"},
+{"custID":1011,"acNo":755453625997,"accType":"Savings","balance":180000,"openDate":"28-06-2005"},
+{"custID":1020,"acNo":654890432323,"accType":"Current","balance":120000,"openDate":"22-11-2008"}]                          
