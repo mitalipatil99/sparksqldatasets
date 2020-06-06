@@ -1,18 +1,18 @@
-[{"custID":1002, "firstname":"mayur", "lastname":"patil","gender":"M", "email":"mayurpatil@gmail.com", "contact":9856467890, "pan":"JLMG3754P8","salary":62000},
-{"custID":1003, "firstname":"rahul", "lastname":"virani","gender":"M", "email":"rahulvirani@gmail.com", "contact":8832567890, "pan":"JHDG6754S8","salary":67000},
-{"custID":1004, "firstname":"dharmesh", "lastname":"seth","gender":"M", "email":"dharmeshseth@gmail.com", "contact":7890567890, "pan":"JHDG6754S8","salary":63000},
-{"custID":1005, "firstname":"kirti", "lastname":"patel","gender":"F", "email":"kirtipatel@gmail.com", "contact":9867901890, "pan":"JHDG6754S8","salary":62000},
-{"custID":1006, "firstname":"ananya", "lastname":"chaudhari","gender":"F", "email":"ananyachaudhari@gmail.com", "contact":9802727890, "pan":"JHDG6754S8","salary":64000},
-{"custID":1007, "firstname":"anay", "lastname":"mitra","gender":"M", "email":"anaymitra@gmail.com", "contact":9867569043, "pan":"JHDG6754S8","salary":55000},
-{"custID":1008, "firstname":"priyanka", "lastname":"shah","gender":"F", "email":"priyankashah@gmail.com", "contact":8867560890, "pan":"KLDG6754S8","salary":45000},
-{"custID":1009, "firstname":"karan", "lastname":"nair","gender":"M", "email":"karannair@gmail.com", "contact":9801267890, "pan":"JHDG6759S8","salary":65000},
-{"custID":1010, "firstname":"advait", "lastname":"patil","gender":"M", "email":"advaitpatil@gmail.com", "contact":6767567890, "pan":"BHDG6754S8","salary":48000},
-{"custID":1011, "firstname":"sahil", "lastname":"gupta","gender":"M", "email":"sahilgupta@gmail.com", "contact":9017567890, "pan":"LPDG6754S8","salary":74000},
-{"custID":1012, "firstname":"dhiraj", "lastname":"chabra","gender":"M", "email":"dhirajchabra@gmail.com", "contact":9906567890, "pan":"CFDG6754S8","salary":80000},
-{"custID":1013, "firstname":"pulkit", "lastname":"malani","gender":"M", "email":"apulkitmalani@gmail.com", "contact":9012567890, "pan":"QYDG6754S8","salary":70000},
-{"custID":1014, "firstname":"disha", "lastname":"chauhan","gender":"F", "email":"dishachauhan@gmail.com", "contact":9867999890, "pan":"TRDG6754S8","salary":55000},
-{"custID":1015, "firstname":"Rashika", "lastname":"das","gender":"F", "email":"rashikadas@gmail.com", "contact":9867567821, "pan":"JHZG6754S8","salary":50000},
-{"custID":1016, "firstname":"Riya", "lastname":"mehra","gender":"F", "email":"riyamehraa@gmail.com", "contact":9867567812, "pan":"DFSG6754S8","salary":35000},
-{"custID":1017, "firstname":"Ahana", "lastname":"sachdev","gender":"F", "email":"ahanasachdev@gmail.com", "contact":8207573890, "pan":"JQEQ6754S8","salary":70000},
-{"custID":1018 "firstname":"Joey", "lastname":"thomas","gender":"M", "email":"joeythomas@gmail.com", "contact":8889567893, "pan":"BJSG6754S8","salary":62000},
-{"custID":1019, "firstname":"Deboy", "lastname":"Das","gender":"M", "email":"deboydas@gmail.com", "contact":9864521642, "pan":"XYEG6754S8","salary":65000}]
+{"custID":1002,"firstname":"mayur","lastname":"patil","gender":"M","email":"mayurpatil@gmail.com","contact":9856467890,"pan":"JLMG3754P8","salary":62000}
+{"custID":1003,"firstname":"rahul","lastname":"virani","gender":"M","email":"rahulvirani@gmail.com","contact":8832567890,"pan":"JHDG6754S8","salary":67000}
+{"custID":1004,"firstname":"dharmesh","lastname":"seth","gender":"M","email":"dharmeshseth@gmail.com","contact":7890567890,"pan":"JHDG6754B8","salary":63000}
+{"custID":1005,"firstname":"kirti","lastname":"patel","gender":"F","email":"kirtipatel@gmail.com","contact":9867901890,"pan":"JHDG0754S8","salary":62000}
+{"custID":1006,"firstname":"ananya","lastname":"chaudhari","gender":"F","email":"ananyachaudhari@gmail.com","contact":9802727890,"pan":"JHDG6774S8","salary":64000}
+{"custID":1007,"firstname":"anay","lastname":"mitra","gender":"M","email":"anaymitra@gmail.com","contact":9867569043,"pan":"JHDG6754A8","salary":55000}
+{"custID":1008,"firstname":"priyanka","lastname":"shah","gender":"F","email":"priyankashah@gmail.com","contact":8867560890,"pan":"KLDG6754S8","salary":45000}
+{"custID":1009,"firstname":"karan","lastname":"nair","gender":"M","email":"karannair@gmail.com","contact":9801267890,"pan":"JHDG6009S8","salary":65000}
+{"custID":1010,"firstname":"advait","lastname":"patil","gender":"M","email":"advaitpatil@gmail.com","contact":6767567890,"pan":"BHDG6754S8","salary":48000}
+{"custID":1011,"firstname":"sahil","lastname":"gupta","gender":"M","email":"sahilgupta@gmail.com","contact":9017567890,"pan":"LPDG6754S8","salary":74000}
+{"custID":1012,"firstname":"dhiraj","lastname":"chabra","gender":"M","email":"dhirajchabra@gmail.com","contact":9906567890, "pan":"CFDG6754S8","salary":80000}
+{"custID":1013,"firstname":"pulkit","lastname":"malani","gender":"M","email":"apulkitmalani@gmail.com","contact":9012567890,"pan":"QYDG6754S8","salary":70000}
+{"custID":1014,"firstname":"disha","lastname":"chauhan","gender":"F","email":"dishachauhan@gmail.com","contact":9867999890,"pan":"TRDG6754S8","salary":55000}
+{"custID":1015,"firstname":"Rashika","lastname":"das","gender":"F","email":"rashikadas@gmail.com","contact":9867567821,"pan":"JHZG8754S8","salary":50000}
+{"custID":1016,"firstname":"Riya","lastname":"mehra","gender":"F","email":"riyamehraa@gmail.com","contact":9867567812,"pan":"DFSG6754S8","salary":35000}
+{"custID":1017,"firstname":"Ahana","lastname":"sachdev","gender":"F","email":"ahanasachdev@gmail.com","contact":8207573890,"pan":"JQEQ6754S8","salary":70000}
+{"custID":1018,"firstname":"Joey","lastname":"thomas","gender":"M","email":"joeythomas@gmail.com","contact":8889567893,"pan":"BJSG6754S8","salary":62000}
+{"custID":1019,"firstname":"Deboy","lastname":"Das","gender":"M","email":"deboydas@gmail.com","contact":9864521642,"pan":"XYEG6754S8","salary":65000}
